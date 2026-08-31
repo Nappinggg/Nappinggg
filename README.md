@@ -20,9 +20,5 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nappinggg&theme=dark&hide_border=false&layout=compact" alt="Top Langs" height="170" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nappinggg&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
