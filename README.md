@@ -3,7 +3,7 @@
 Computer Science (AI) student at the University of Greenwich, based in London.
 I build backend services in Python and work hands-on with generative AI tooling.
 
-**Currently looking for a Summer 2027 internship** — Python / backend, AI engineering, or frontend.
+
 
 ### Stack
 
